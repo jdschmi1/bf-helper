@@ -511,6 +511,12 @@
     "Beast Armor": 1,
     "Honor Drop": 20
   },
+  "Sacred Jewel": {
+    "Death Jewel": 1,
+    "Bahamut Rage": 1,
+    "Tree Shield": 1,
+    "Meru Nut": 10
+  },
   "Crown Light": {
     "Poison Light": 3,
     "Growth Light": 3,
@@ -551,6 +557,20 @@
     "Giant Claw": 10,
     "Blood Bone": 3,
     "Honor Claw": 20
+  },
+  "Medulla Gem": {
+    "Sacred Jewel": 2,
+    "Blue Dragon": 1,
+    "Life Shield": 1,
+    "Shiny Nut": 3,
+    "Dark Pelt": 3
+  },
+  "Legwand Gem": {
+    "Medulla Gem": 1,
+    "Angel Sword": 1,
+    "Alpha Shield": 1,
+    "Calamity Eye": 2,
+    "Doom Jewel": 1
   },
   "Health Charm": {
     "Crown Light": 1,
