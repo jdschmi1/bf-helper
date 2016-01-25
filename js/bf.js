@@ -4,6 +4,8 @@
 
 (function () {
     var app = angular.module('bf', ['bf-materials']);
+    localStorage.removeItem("bf-spheres-recipes");
+    localStorage.removeItem("bf-synthesis-recipes");
 
     /**
      * Workaround filter to sort object properties
