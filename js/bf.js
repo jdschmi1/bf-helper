@@ -7,6 +7,7 @@
     localStorage.removeItem("bf-spheres-recipes");
     localStorage.removeItem("bf-synthesis-recipes");
 
+
     /**
      * Workaround filter to sort object properties
      * Inspired from https://github.com/petebacondarwin/angular-toArrayFilter/blob/master/toArrayFilter.js
